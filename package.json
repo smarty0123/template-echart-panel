@@ -1,16 +1,23 @@
 {
-  "name": "simple-react-panel",
+  "name": "ascend-echart-panel",
   "version": "1.0.0",
-  "description": "Simple React Panel",
+  "description": "Ascend Echart Panel",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
     "test": "grafana-toolkit plugin:test",
     "dev": "grafana-toolkit plugin:dev",
     "watch": "grafana-toolkit plugin:dev --watch"
   },
-  "author": "Grafana Labs",
+  "author": "Dr.Strange Team",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@grafana/data": "next",
+    "@grafana/toolkit": "next",
+    "@grafana/ui": "next"
+  },
+  "dependencies": {
+    "echarts": "^4.6.0",
+    "echarts-for-react": "^2.0.15-beta.1",
     "@grafana/data": "next",
     "@grafana/toolkit": "next",
     "@grafana/ui": "next"

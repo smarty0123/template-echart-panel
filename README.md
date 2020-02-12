@@ -1,6 +1,6 @@
-# Simple React Panel
+# Ascend EChart Panel
 
-This is just a stub to show how you can create a basic visualization plugin.
+For demonstration Grafana Panel Plugin 
 
 First, install dependencies:
 ```
