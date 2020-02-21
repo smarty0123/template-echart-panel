@@ -22,8 +22,8 @@ export class SimplePanel extends PureComponent<Props> {
     } 
     return{
       title: {
-        text: 'This is Pie Chart',
-        subtext: options.text,
+        text: options.text,
+        subtext: options.subtext,
         left: 'center',
       },
       tooltip: {
@@ -56,7 +56,6 @@ export class SimplePanel extends PureComponent<Props> {
     return (
       <div>
         <ReactEcharts option={this.getOption()} />
-
       </div>
     );
   }

@@ -17,9 +17,6 @@
   },
   "dependencies": {
     "echarts": "^4.6.0",
-    "echarts-for-react": "^2.0.15-beta.1",
-    "@grafana/data": "next",
-    "@grafana/toolkit": "next",
-    "@grafana/ui": "next"
+    "echarts-for-react": "^2.0.15-beta.1"
   }
 }
