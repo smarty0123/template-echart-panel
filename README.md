@@ -1,6 +1,6 @@
-# Ascend EChart Panel
+# Template EChart Panel
 
-For demonstration Grafana Panel Plugin 
+for all chart from echarts
 
 First, install dependencies:
 ```
