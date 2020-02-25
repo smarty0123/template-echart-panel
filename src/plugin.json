@@ -1,7 +1,7 @@
 {
   "type": "panel",
-  "name": "Echart Panel",
-  "id": "ascend-echart-panel",
+  "name": "Template Echart Panel",
+  "id": "template-echart-panel",
 
   "info": {
     "description": "Simple Echart Panel",

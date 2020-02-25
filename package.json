@@ -16,6 +16,7 @@
     "@grafana/ui": "next"
   },
   "dependencies": {
+    "@types/echarts": "^4.4.3",
     "echarts": "^4.6.0",
     "echarts-for-react": "^2.0.15-beta.1"
   }
